@@ -2,7 +2,6 @@
 title: "Fluid Antenna-Enabled Near-Field Integrated Sensing, Computing and Semantic Communication for Emerging Applications"
 collection: publications
 category: manuscripts
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-7-24
 venue: 'IEEE Transactions on Cognitive Communications and Networking'
 citation: 'Y. Yang, J. Zhou, Z. Yang and M. Shikh-Bahaei, "Fluid Antenna-Enabled Near-Field Integrated Sensing, Computing and Semantic Communication for Emerging Applications," in IEEE Transactions on Cognitive Communications and Networking, doi: 10.1109/TCCN.2025.3592294.'
