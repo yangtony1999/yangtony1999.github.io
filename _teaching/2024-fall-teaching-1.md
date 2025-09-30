@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Tutorial"
+type: "Undergraduate course tutorial"
 venue: "Department of Engineering, King's College London"
 date: 2024-10-01
 ---
