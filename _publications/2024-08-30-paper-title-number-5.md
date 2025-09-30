@@ -3,5 +3,6 @@ title: "Joint layer selection and differential privacy design for federated lear
 collection: publications
 category: manuscripts
 date: 2024-08-30
+venue: 'IEEE Internet of Things Journal'
 link: 'https://ieeexplore.ieee.org/abstract/document/10660465'
 ---
