@@ -11,6 +11,6 @@ citation: '@article{yang2025fluid,
   year={2025},
   publisher={IEEE}
 }'
-external_link: "https://ieeexplore.ieee.org/abstract/document/11096081"
+link: "https://ieeexplore.ieee.org/abstract/document/11096081"
 
 ---
