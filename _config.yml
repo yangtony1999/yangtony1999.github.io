@@ -23,7 +23,7 @@ repository               : "yangtony1999/yangtony1999.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ID_photo2.png"
+  avatar           : "ID_photo.png"
   name             : "Yinchao Yang"
   pronouns         : "he/him"
   bio              : "Ph.D. Candidate, AFHEA"
